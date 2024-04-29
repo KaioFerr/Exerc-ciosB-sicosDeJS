@@ -1,0 +1,13 @@
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+button{
+    width: 100px;
+}
+
+input{
+    width: 100px;
+}

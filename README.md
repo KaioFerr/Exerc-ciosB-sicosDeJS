@@ -1,11 +1,12 @@
 # Atividade da Unifagoc - Resolução de Problemas de Programação
 Nesta atividade, foram resolvidos diversos problemas de programação utilizando a linguagem de programação JavaScript. Cada problema foi abordado separadamente e sua resolução pode ser encontrada nas respectivas pastas. Esse projeto é uma atividade do curso de Introdução ao Desenvolvimento Web da UNIFAGOC.
 
-## Estrutura do Projeto
-* Página Index: Contém um menu com os problemas resolvidos e seus respectivos scripts para suas soluções.
-## Como Utilizar
-* Abra a pasta do exercício que você queira ver.
-* Abra a página index.html em um navegador web.
+## Ferramentas utilizadas
+* JavaScript
+* HTML
+* CSS
+## Funcionalidade
+* Cada problemas possui uma funcionalidade singular.
 
 ## Problemas
 As soluções apresentadas foram desenvolvidas com base nos requisitos estabelecidos em cada problema:
